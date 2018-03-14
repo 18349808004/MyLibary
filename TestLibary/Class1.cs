@@ -8,7 +8,7 @@ namespace TestLibary
 {
     public class Class1
     {
-        public void TestA()
+        public void TestB()
         {
 
         }
