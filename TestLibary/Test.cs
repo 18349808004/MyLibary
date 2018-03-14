@@ -8,6 +8,9 @@ namespace TestLibary
 {
     class Test
     {
-
+        public void TestA()
+        {
+            
+        }
     }
 }
